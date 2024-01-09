@@ -29,7 +29,7 @@ export const InitialConfig: InitialRow[] = [
   ['tsʰ', 'tsʰ', 'tsʰ', 'c'],
   ['t', 't', 't', 'd'],
   ['tʰ', 'tʰ', 'tʰ', 't'],
-  ['ȵ', 'ȵ', 'ȵ', 'gn'],
+  ['ȵ', 'ȵ', 'ȵ', 'n'],
   // sh -> x
   ['ɕ', 'ɕ', 'ɕ', 'x'],
   ['k', 'k', 'k', 'g'],
@@ -132,8 +132,8 @@ export const FinalsConfig: FinalRow[] = [
   [null, 'yan', 'yan', 'yan'],
 
   ['yẽ', 'yẽ', 'yẽ', 'yenn'],
-  ['on', null, null, 'on'],
-  [null, 'õ', 'õ', 'on'],
+  ['on', null, null, 'onn'],
+  [null, 'õ', 'õ', 'onn'],
 
   ['əȵ̍', null, null, 'en'],
   [null, 'ən', 'ən', 'en'],
